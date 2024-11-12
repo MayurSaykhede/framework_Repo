@@ -110,7 +110,7 @@
 						<version>3.3.1</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>RRT</suiteXmlFile>
+								<suiteXmlFile>RRT.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
