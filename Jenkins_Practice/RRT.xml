@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="sample.sampleClass2_Test">
+			<class name="sample.sampleClass1_Test">
 				<methods>
 					<include name="sample1Test"/>
 				</methods>
